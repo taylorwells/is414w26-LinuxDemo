@@ -1,3 +1,3 @@
-# Lab 1 Linux Basics (Winter 2026)
+# Debian Linux Demo Container
 
-This contains the Dockerfile and supplemental files to build the Lab 1 Linux Basics container. It also contains the lab instructions and answer key.
+Silly container with SSH for doing some in-class demonstration.
